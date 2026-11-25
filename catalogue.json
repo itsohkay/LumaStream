@@ -10,9 +10,10 @@
     "rating": "PG-13",
     "duration": "3h 1m",
     "description": "The Avengers reunite for one final mission that will decide the fate of the universe.",
-    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=900&q=85",
+    "image": "",
     "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
-    "featured": true
+    "featured": true,
+    "posterPage": "Avengers: Endgame"
   },
   {
     "id": 2,
@@ -25,9 +26,10 @@
     "rating": "PG-13",
     "duration": "2h 28m",
     "description": "Peter Parker faces an extraordinary challenge when his world collides with other realities.",
-    "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=900&q=85",
+    "image": "",
     "trailer": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
-    "featured": true
+    "featured": true,
+    "posterPage": "Spider-Man: No Way Home"
   },
   {
     "id": 3,
@@ -40,9 +42,10 @@
     "rating": "PG-13",
     "duration": "2h 14m",
     "description": "A young king must protect his home while discovering what kind of leader he wants to become.",
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=900&q=85",
-    "trailer": "",
-    "featured": false
+    "image": "",
+    "trailer": "https://www.youtube.com/watch?v=dxWvtMOGAhw",
+    "featured": false,
+    "posterPage": "Black Panther (film)"
   },
   {
     "id": 4,
@@ -55,9 +58,10 @@
     "rating": "TV-14",
     "duration": "1 season",
     "description": "The X-Men return in an animated series about teamwork, identity and a changing world.",
-    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": true
+    "featured": true,
+    "posterPage": "X-Men '97"
   },
   {
     "id": 5,
@@ -70,9 +74,10 @@
     "rating": "PG-13",
     "duration": "2h 1m",
     "description": "An unlikely crew of space adventurers discover that saving the galaxy takes teamwork.",
-    "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Guardians of the Galaxy (film)"
   },
   {
     "id": 6,
@@ -85,9 +90,10 @@
     "rating": "PG-13",
     "duration": "2h 56m",
     "description": "A detective-style superhero story follows Batman through a mystery in Gotham City.",
-    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=900&q=85",
+    "image": "",
     "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
-    "featured": true
+    "featured": true,
+    "posterPage": "The Batman (film)"
   },
   {
     "id": 7,
@@ -100,9 +106,10 @@
     "rating": "PG-13",
     "duration": "2h 21m",
     "description": "An Amazon warrior leaves her island home and discovers her strength in a wider world.",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Wonder Woman (2017 film)"
   },
   {
     "id": 8,
@@ -115,9 +122,10 @@
     "rating": "PG-13",
     "duration": "2h 23m",
     "description": "A young hero learns about his origins and the responsibility that comes with his abilities.",
-    "image": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?w=900&q=85",
-    "trailer": "",
-    "featured": false
+    "image": "",
+    "trailer": "https://www.youtube.com/watch?v=T6DJcgm3wNY",
+    "featured": false,
+    "posterPage": "Man of Steel (film)"
   },
   {
     "id": 9,
@@ -130,9 +138,10 @@
     "rating": "TV-MA",
     "duration": "2 seasons",
     "description": "A sharp-edged superhero comedy-drama about a complicated character and his team.",
-    "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Peacemaker (TV series)"
   },
   {
     "id": 10,
@@ -145,9 +154,10 @@
     "rating": "PG",
     "duration": "1h 36m",
     "description": "Riley's emotions navigate a new chapter as unexpected feelings join the control room.",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900&q=85",
+    "image": "",
     "trailer": "https://www.youtube.com/watch?v=LEjhY15eNxA",
-    "featured": true
+    "featured": true,
+    "posterPage": "Inside Out 2"
   },
   {
     "id": 11,
@@ -160,9 +170,10 @@
     "rating": "PG",
     "duration": "1h 45m",
     "description": "A music-loving boy discovers family history, memory and the power of a song.",
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=900&q=85",
-    "trailer": "",
-    "featured": false
+    "image": "",
+    "trailer": "https://www.youtube.com/watch?v=Ga6RYejo6Hc",
+    "featured": false,
+    "posterPage": "Coco (2017 film)"
   },
   {
     "id": 12,
@@ -175,9 +186,10 @@
     "rating": "G",
     "duration": "1h 40m",
     "description": "Old friends and new discoveries lead to an adventure about belonging and change.",
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=85",
-    "trailer": "",
-    "featured": false
+    "image": "",
+    "trailer": "https://www.youtube.com/watch?v=wmiIUN-7qhE",
+    "featured": false,
+    "posterPage": "Toy Story 4"
   },
   {
     "id": 13,
@@ -190,9 +202,10 @@
     "rating": "G",
     "duration": "1h 40m",
     "description": "A cautious clownfish crosses the ocean on a heartfelt search for his son.",
-    "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Finding Nemo"
   },
   {
     "id": 14,
@@ -205,9 +218,10 @@
     "rating": "PG",
     "duration": "1h 43m",
     "description": "Two sisters journey beyond their kingdom to uncover the secrets of their family and home.",
-    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=900&q=85",
-    "trailer": "",
-    "featured": true
+    "image": "",
+    "trailer": "https://www.youtube.com/watch?v=Zi4LMpSDccc",
+    "featured": true,
+    "posterPage": "Frozen II"
   },
   {
     "id": 15,
@@ -220,9 +234,10 @@
     "rating": "PG",
     "duration": "1h 47m",
     "description": "A determined wayfinder sails across the ocean to help restore balance to her island.",
-    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=900&q=85",
-    "trailer": "",
-    "featured": false
+    "image": "",
+    "trailer": "https://www.youtube.com/watch?v=LKFuXETZUsI",
+    "featured": false,
+    "posterPage": "Moana (2016 film)"
   },
   {
     "id": 16,
@@ -235,9 +250,10 @@
     "rating": "G",
     "duration": "1h 28m",
     "description": "A young lion grows into his place in the circle of life in this animated classic.",
-    "image": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=900&q=85",
-    "trailer": "",
-    "featured": false
+    "image": "",
+    "trailer": "https://www.youtube.com/watch?v=7TavVZMewpY",
+    "featured": false,
+    "posterPage": "The Lion King (1994 film)"
   },
   {
     "id": 17,
@@ -250,9 +266,10 @@
     "rating": "TV-PG",
     "duration": "2 seasons",
     "description": "A modern demigod discovers a world of ancient myths, quests and unexpected friendships.",
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Percy Jackson and the Olympians (TV series)"
   },
   {
     "id": 18,
@@ -265,9 +282,10 @@
     "rating": "PG-13",
     "duration": "1h 54m",
     "description": "A colourful journey of self-discovery takes Barbie beyond the world she knows.",
-    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=85",
+    "image": "",
     "trailer": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
-    "featured": true
+    "featured": true,
+    "posterPage": "Barbie (film)"
   },
   {
     "id": 19,
@@ -280,9 +298,10 @@
     "rating": "TV-Y7",
     "duration": "2 parts",
     "description": "A reimagined fantasy adventure about courage, friendship and the fate of Eternia.",
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Masters of the Universe (film)"
   },
   {
     "id": 20,
@@ -295,9 +314,10 @@
     "rating": "TV-Y7",
     "duration": "2 seasons",
     "description": "Young racers take on creative challenges, big tracks and high-energy competition.",
-    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Hot Wheels: Let's Race"
   },
   {
     "id": 21,
@@ -310,9 +330,10 @@
     "rating": "PG-13",
     "duration": "2h 7m",
     "description": "New allies and ancient robotic forces bring a global adventure to life.",
-    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": true
+    "featured": true,
+    "posterPage": "Transformers: Rise of the Beasts"
   },
   {
     "id": 22,
@@ -325,9 +346,10 @@
     "rating": "PG",
     "duration": "1h 50m",
     "description": "Sonic and friends face a powerful new rival in a fast-moving family adventure.",
-    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=900&q=85",
+    "image": "",
     "trailer": "https://www.youtube.com/watch?v=qSu6i2iFMO0",
-    "featured": false
+    "featured": false,
+    "posterPage": "Sonic the Hedgehog 3 (film)"
   },
   {
     "id": 23,
@@ -340,9 +362,10 @@
     "rating": "TV-14",
     "duration": "3 seasons",
     "description": "The crew of the Enterprise explores new worlds and big questions about the future.",
-    "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Star Trek: Strange New Worlds"
   },
   {
     "id": 24,
@@ -355,9 +378,10 @@
     "rating": "PG-13",
     "duration": "1h 30m",
     "description": "A family must rely on careful communication in a world where sound carries danger.",
-    "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=900&q=85",
-    "trailer": "",
-    "featured": false
+    "image": "",
+    "trailer": "https://www.youtube.com/watch?v=WR7cc5t7tv8",
+    "featured": false,
+    "posterPage": "A Quiet Place"
   },
   {
     "id": 25,
@@ -370,9 +394,10 @@
     "rating": "PG",
     "duration": "1h 38m",
     "description": "An unlikely friendship changes how a young Viking sees dragons and his community.",
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": true
+    "featured": true,
+    "posterPage": "How to Train Your Dragon (2010 film)"
   },
   {
     "id": 26,
@@ -385,9 +410,10 @@
     "rating": "PG",
     "duration": "1h 34m",
     "description": "Po faces a new chapter and learns that leadership can mean making room for others.",
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Kung Fu Panda 4"
   },
   {
     "id": 27,
@@ -400,9 +426,10 @@
     "rating": "PG",
     "duration": "1h 30m",
     "description": "A swamp-loving ogre's quiet life becomes a funny fairy-tale adventure.",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Shrek"
   },
   {
     "id": 28,
@@ -415,9 +442,10 @@
     "rating": "PG",
     "duration": "1h 42m",
     "description": "A robot learns to adapt to nature and build an unexpected family on a remote island.",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "The Wild Robot"
   },
   {
     "id": 29,
@@ -430,9 +458,10 @@
     "rating": "PG",
     "duration": "2h 5m",
     "description": "A young girl enters a mysterious spirit world and finds courage along the way.",
-    "image": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": true
+    "featured": true,
+    "posterPage": "Spirited Away"
   },
   {
     "id": 30,
@@ -445,9 +474,10 @@
     "rating": "G",
     "duration": "1h 26m",
     "description": "Two sisters discover gentle forest spirits in a warm story about wonder and family.",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "My Neighbor Totoro"
   },
   {
     "id": 31,
@@ -460,9 +490,10 @@
     "rating": "TV-14",
     "duration": "2 seasons",
     "description": "Two sisters find themselves on opposite sides of a growing conflict between cities.",
-    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": true
+    "featured": true,
+    "posterPage": "Arcane (TV series)"
   },
   {
     "id": 32,
@@ -475,9 +506,10 @@
     "rating": "TV-Y7",
     "duration": "3 seasons",
     "description": "A young airbender travels with friends to bring balance to a divided world.",
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Avatar: The Last Airbender (2024 TV series)"
   },
   {
     "id": 33,
@@ -490,9 +522,10 @@
     "rating": "TV-14",
     "duration": "2 seasons",
     "description": "A sharp-witted student investigates strange mysteries at an unusual academy.",
-    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Wednesday (TV series)"
   },
   {
     "id": 34,
@@ -505,9 +538,10 @@
     "rating": "PG",
     "duration": "48m",
     "description": "A thoughtful short documentary exploring the science, silence and mystery of space.",
-    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "The Sea of Tranquility"
   },
   {
     "id": 35,
@@ -520,9 +554,10 @@
     "rating": "G",
     "duration": "52m",
     "description": "Explore ocean habitats and the remarkable life found beneath the surface.",
-    "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=900&q=85",
+    "image": "",
     "trailer": "",
-    "featured": false
+    "featured": false,
+    "posterPage": "Blue Planet"
   },
   {
     "id": 36,
@@ -535,8 +570,9 @@
     "rating": "R",
     "duration": "1h 39m",
     "description": "A meticulous concierge and his young colleague become caught in an unusual mystery.",
-    "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=900&q=85",
-    "trailer": "",
-    "featured": false
+    "image": "",
+    "trailer": "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
+    "featured": false,
+    "posterPage": "The Grand Budapest Hotel"
   }
 ]
