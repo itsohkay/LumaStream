@@ -13,7 +13,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
     "featured": true,
-    "posterPage": "Avengers: Endgame"
+    "posterPage": "Avengers: Endgame",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Avengers%3A%20Endgame&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Avengers%3A%20Endgame%20official%20trailer"
   },
   {
     "id": 2,
@@ -29,7 +31,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
     "featured": true,
-    "posterPage": "Spider-Man: No Way Home"
+    "posterPage": "Spider-Man: No Way Home",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Spider-Man%3A%20No%20Way%20Home&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Spider-Man%3A%20No%20Way%20Home%20official%20trailer"
   },
   {
     "id": 3,
@@ -45,7 +49,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=dxWvtMOGAhw",
     "featured": false,
-    "posterPage": "Black Panther (film)"
+    "posterPage": "Black Panther (film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Black%20Panther%20%28film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Black%20Panther%20official%20trailer"
   },
   {
     "id": 4,
@@ -61,7 +67,9 @@
     "image": "",
     "trailer": "",
     "featured": true,
-    "posterPage": "X-Men '97"
+    "posterPage": "X-Men '97",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=X-Men%20%2797&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=X-Men%20%2797%20official%20trailer"
   },
   {
     "id": 5,
@@ -77,7 +85,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Guardians of the Galaxy (film)"
+    "posterPage": "Guardians of the Galaxy (film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Guardians%20of%20the%20Galaxy%20%28film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Guardians%20of%20the%20Galaxy%20official%20trailer"
   },
   {
     "id": 6,
@@ -93,7 +103,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
     "featured": true,
-    "posterPage": "The Batman (film)"
+    "posterPage": "The Batman (film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=The%20Batman%20%28film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Batman%20official%20trailer"
   },
   {
     "id": 7,
@@ -109,7 +121,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Wonder Woman (2017 film)"
+    "posterPage": "Wonder Woman (2017 film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Wonder%20Woman%20%282017%20film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Wonder%20Woman%20official%20trailer"
   },
   {
     "id": 8,
@@ -125,7 +139,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=T6DJcgm3wNY",
     "featured": false,
-    "posterPage": "Man of Steel (film)"
+    "posterPage": "Man of Steel (film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Man%20of%20Steel%20%28film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Man%20of%20Steel%20official%20trailer"
   },
   {
     "id": 9,
@@ -141,7 +157,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Peacemaker (TV series)"
+    "posterPage": "Peacemaker (TV series)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Peacemaker%20%28TV%20series%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Peacemaker%20official%20trailer"
   },
   {
     "id": 10,
@@ -157,7 +175,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=LEjhY15eNxA",
     "featured": true,
-    "posterPage": "Inside Out 2"
+    "posterPage": "Inside Out 2",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Inside%20Out%202&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Inside%20Out%202%20official%20trailer"
   },
   {
     "id": 11,
@@ -173,7 +193,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=Ga6RYejo6Hc",
     "featured": false,
-    "posterPage": "Coco (2017 film)"
+    "posterPage": "Coco (2017 film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Coco%20%282017%20film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Coco%20official%20trailer"
   },
   {
     "id": 12,
@@ -189,7 +211,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=wmiIUN-7qhE",
     "featured": false,
-    "posterPage": "Toy Story 4"
+    "posterPage": "Toy Story 4",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Toy%20Story%204&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Toy%20Story%204%20official%20trailer"
   },
   {
     "id": 13,
@@ -205,7 +229,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Finding Nemo"
+    "posterPage": "Finding Nemo",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Finding%20Nemo&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Finding%20Nemo%20official%20trailer"
   },
   {
     "id": 14,
@@ -221,7 +247,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=Zi4LMpSDccc",
     "featured": true,
-    "posterPage": "Frozen II"
+    "posterPage": "Frozen II",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Frozen%20II&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Frozen%20II%20official%20trailer"
   },
   {
     "id": 15,
@@ -237,7 +265,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=LKFuXETZUsI",
     "featured": false,
-    "posterPage": "Moana (2016 film)"
+    "posterPage": "Moana (2016 film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Moana%20%282016%20film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Moana%20official%20trailer"
   },
   {
     "id": 16,
@@ -253,7 +283,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=7TavVZMewpY",
     "featured": false,
-    "posterPage": "The Lion King (1994 film)"
+    "posterPage": "The Lion King (1994 film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=The%20Lion%20King%20%281994%20film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Lion%20King%20official%20trailer"
   },
   {
     "id": 17,
@@ -269,7 +301,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Percy Jackson and the Olympians (TV series)"
+    "posterPage": "Percy Jackson and the Olympians (TV series)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Percy%20Jackson%20and%20the%20Olympians%20%28TV%20series%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Percy%20Jackson%20and%20the%20Olympians%20official%20trailer"
   },
   {
     "id": 18,
@@ -285,7 +319,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
     "featured": true,
-    "posterPage": "Barbie (film)"
+    "posterPage": "Barbie (film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Barbie%20%28film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Barbie%20official%20trailer"
   },
   {
     "id": 19,
@@ -301,7 +337,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Masters of the Universe (film)"
+    "posterPage": "Masters of the Universe (film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Masters%20of%20the%20Universe%20%28film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Masters%20of%20the%20Universe%20official%20trailer"
   },
   {
     "id": 20,
@@ -317,7 +355,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Hot Wheels: Let's Race"
+    "posterPage": "Hot Wheels: Let's Race",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Hot%20Wheels%3A%20Let%27s%20Race&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Hot%20Wheels%3A%20Let%27s%20Race%20official%20trailer"
   },
   {
     "id": 21,
@@ -333,7 +373,9 @@
     "image": "",
     "trailer": "",
     "featured": true,
-    "posterPage": "Transformers: Rise of the Beasts"
+    "posterPage": "Transformers: Rise of the Beasts",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Transformers%3A%20Rise%20of%20the%20Beasts&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Transformers%3A%20Rise%20of%20the%20Beasts%20official%20trailer"
   },
   {
     "id": 22,
@@ -349,7 +391,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=qSu6i2iFMO0",
     "featured": false,
-    "posterPage": "Sonic the Hedgehog 3 (film)"
+    "posterPage": "Sonic the Hedgehog 3 (film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Sonic%20the%20Hedgehog%203%20%28film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Sonic%20the%20Hedgehog%203%20official%20trailer"
   },
   {
     "id": 23,
@@ -365,7 +409,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Star Trek: Strange New Worlds"
+    "posterPage": "Star Trek: Strange New Worlds",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Star%20Trek%3A%20Strange%20New%20Worlds&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Star%20Trek%3A%20Strange%20New%20Worlds%20official%20trailer"
   },
   {
     "id": 24,
@@ -381,7 +427,9 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=WR7cc5t7tv8",
     "featured": false,
-    "posterPage": "A Quiet Place"
+    "posterPage": "A Quiet Place",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=A%20Quiet%20Place&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=A%20Quiet%20Place%20official%20trailer"
   },
   {
     "id": 25,
@@ -397,7 +445,9 @@
     "image": "",
     "trailer": "",
     "featured": true,
-    "posterPage": "How to Train Your Dragon (2010 film)"
+    "posterPage": "How to Train Your Dragon (2010 film)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=How%20to%20Train%20Your%20Dragon%20%282010%20film%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=How%20to%20Train%20Your%20Dragon%20official%20trailer"
   },
   {
     "id": 26,
@@ -413,7 +463,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Kung Fu Panda 4"
+    "posterPage": "Kung Fu Panda 4",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Kung%20Fu%20Panda%204&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Kung%20Fu%20Panda%204%20official%20trailer"
   },
   {
     "id": 27,
@@ -429,7 +481,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Shrek"
+    "posterPage": "Shrek",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Shrek&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Shrek%20official%20trailer"
   },
   {
     "id": 28,
@@ -445,7 +499,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "The Wild Robot"
+    "posterPage": "The Wild Robot",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=The%20Wild%20Robot&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Wild%20Robot%20official%20trailer"
   },
   {
     "id": 29,
@@ -461,7 +517,9 @@
     "image": "",
     "trailer": "",
     "featured": true,
-    "posterPage": "Spirited Away"
+    "posterPage": "Spirited Away",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Spirited%20Away&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Spirited%20Away%20official%20trailer"
   },
   {
     "id": 30,
@@ -477,7 +535,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "My Neighbor Totoro"
+    "posterPage": "My Neighbor Totoro",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=My%20Neighbor%20Totoro&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=My%20Neighbor%20Totoro%20official%20trailer"
   },
   {
     "id": 31,
@@ -493,7 +553,9 @@
     "image": "",
     "trailer": "",
     "featured": true,
-    "posterPage": "Arcane (TV series)"
+    "posterPage": "Arcane (TV series)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Arcane%20%28TV%20series%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Arcane%20official%20trailer"
   },
   {
     "id": 32,
@@ -509,7 +571,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Avatar: The Last Airbender (2024 TV series)"
+    "posterPage": "Avatar: The Last Airbender (2024 TV series)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Avatar%3A%20The%20Last%20Airbender%20%282024%20TV%20series%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Avatar%3A%20The%20Last%20Airbender%20official%20trailer"
   },
   {
     "id": 33,
@@ -525,7 +589,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Wednesday (TV series)"
+    "posterPage": "Wednesday (TV series)",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Wednesday%20%28TV%20series%29&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Wednesday%20official%20trailer"
   },
   {
     "id": 34,
@@ -541,7 +607,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "The Sea of Tranquility"
+    "posterPage": "The Sea of Tranquility",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=The%20Sea%20of%20Tranquility&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Sea%20of%20Tranquility%20official%20trailer"
   },
   {
     "id": 35,
@@ -557,7 +625,9 @@
     "image": "",
     "trailer": "",
     "featured": false,
-    "posterPage": "Blue Planet"
+    "posterPage": "Blue Planet",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Blue%20Planet&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=Planet%20Earth%3A%20Blue%20Worlds%20official%20trailer"
   },
   {
     "id": 36,
@@ -573,6 +643,8 @@
     "image": "",
     "trailer": "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
     "featured": false,
-    "posterPage": "The Grand Budapest Hotel"
+    "posterPage": "The Grand Budapest Hotel",
+    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=The%20Grand%20Budapest%20Hotel&redirects=1&origin=*",
+    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Grand%20Budapest%20Hotel%20official%20trailer"
   }
 ]

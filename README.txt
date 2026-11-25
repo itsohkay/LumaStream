@@ -22,3 +22,7 @@ Poster lookup uses Wikipedia's public page-image API based on each catalogue tit
 This is an educational website prototype. It does not host movies or create real user accounts.
 
 The visual design uses an original comic-cinematic style; the existing CSS layout was preserved.
+
+
+Movie media sources:
+Poster artwork is loaded from Wikipedia page-image thumbnails using the posterSource URLs stored in catalogue.json. Trailer links use direct YouTube videos where video IDs are present; titles without verified video IDs link to a YouTube search for the official trailer.
