@@ -14,8 +14,7 @@ const fallbackCatalogue = [
     "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
     "featured": true,
     "posterPage": "Avengers: Endgame",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Avengers%3A%20Endgame&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Avengers%3A%20Endgame%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Avengers: Endgame%20official%20trailer"
   },
   {
     "id": 2,
@@ -32,8 +31,7 @@ const fallbackCatalogue = [
     "trailer": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
     "featured": true,
     "posterPage": "Spider-Man: No Way Home",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Spider-Man%3A%20No%20Way%20Home&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Spider-Man%3A%20No%20Way%20Home%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Spider-Man: No Way Home%20official%20trailer"
   },
   {
     "id": 3,
@@ -47,11 +45,10 @@ const fallbackCatalogue = [
     "duration": "2h 14m",
     "description": "A young king must protect his home while discovering what kind of leader he wants to become.",
     "image": "",
-    "trailer": "https://www.youtube.com/watch?v=dxWvtMOGAhw",
+    "trailer": "",
     "featured": false,
     "posterPage": "Black Panther (film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Black%20Panther%20%28film%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Black%20Panther%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Black Panther%20official%20trailer"
   },
   {
     "id": 4,
@@ -68,8 +65,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": true,
     "posterPage": "X-Men '97",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=X-Men%20%2797&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=X-Men%20%2797%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=X-Men '97%20official%20trailer"
   },
   {
     "id": 5,
@@ -86,8 +82,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Guardians of the Galaxy (film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Guardians%20of%20the%20Galaxy%20%28film%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Guardians%20of%20the%20Galaxy%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Guardians of the Galaxy%20official%20trailer"
   },
   {
     "id": 6,
@@ -104,8 +99,7 @@ const fallbackCatalogue = [
     "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
     "featured": true,
     "posterPage": "The Batman (film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=The%20Batman%20%28film%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Batman%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=The Batman%20official%20trailer"
   },
   {
     "id": 7,
@@ -122,8 +116,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Wonder Woman (2017 film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Wonder%20Woman%20%282017%20film%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Wonder%20Woman%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Wonder Woman%20official%20trailer"
   },
   {
     "id": 8,
@@ -137,11 +130,10 @@ const fallbackCatalogue = [
     "duration": "2h 23m",
     "description": "A young hero learns about his origins and the responsibility that comes with his abilities.",
     "image": "",
-    "trailer": "https://www.youtube.com/watch?v=T6DJcgm3wNY",
+    "trailer": "",
     "featured": false,
     "posterPage": "Man of Steel (film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Man%20of%20Steel%20%28film%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Man%20of%20Steel%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Man of Steel%20official%20trailer"
   },
   {
     "id": 9,
@@ -158,7 +150,6 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Peacemaker (TV series)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Peacemaker%20%28TV%20series%29&redirects=1&origin=*",
     "trailerSearch": "https://www.youtube.com/results?search_query=Peacemaker%20official%20trailer"
   },
   {
@@ -176,8 +167,7 @@ const fallbackCatalogue = [
     "trailer": "https://www.youtube.com/watch?v=LEjhY15eNxA",
     "featured": true,
     "posterPage": "Inside Out 2",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Inside%20Out%202&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Inside%20Out%202%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Inside Out 2%20official%20trailer"
   },
   {
     "id": 11,
@@ -191,10 +181,9 @@ const fallbackCatalogue = [
     "duration": "1h 45m",
     "description": "A music-loving boy discovers family history, memory and the power of a song.",
     "image": "",
-    "trailer": "https://www.youtube.com/watch?v=Ga6RYejo6Hc",
+    "trailer": "",
     "featured": false,
     "posterPage": "Coco (2017 film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Coco%20%282017%20film%29&redirects=1&origin=*",
     "trailerSearch": "https://www.youtube.com/results?search_query=Coco%20official%20trailer"
   },
   {
@@ -209,11 +198,10 @@ const fallbackCatalogue = [
     "duration": "1h 40m",
     "description": "Old friends and new discoveries lead to an adventure about belonging and change.",
     "image": "",
-    "trailer": "https://www.youtube.com/watch?v=wmiIUN-7qhE",
+    "trailer": "",
     "featured": false,
     "posterPage": "Toy Story 4",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Toy%20Story%204&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Toy%20Story%204%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Toy Story 4%20official%20trailer"
   },
   {
     "id": 13,
@@ -230,8 +218,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Finding Nemo",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Finding%20Nemo&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Finding%20Nemo%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Finding Nemo%20official%20trailer"
   },
   {
     "id": 14,
@@ -245,11 +232,10 @@ const fallbackCatalogue = [
     "duration": "1h 43m",
     "description": "Two sisters journey beyond their kingdom to uncover the secrets of their family and home.",
     "image": "",
-    "trailer": "https://www.youtube.com/watch?v=Zi4LMpSDccc",
+    "trailer": "",
     "featured": true,
     "posterPage": "Frozen II",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Frozen%20II&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Frozen%20II%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Frozen II%20official%20trailer"
   },
   {
     "id": 15,
@@ -263,10 +249,9 @@ const fallbackCatalogue = [
     "duration": "1h 47m",
     "description": "A determined wayfinder sails across the ocean to help restore balance to her island.",
     "image": "",
-    "trailer": "https://www.youtube.com/watch?v=LKFuXETZUsI",
+    "trailer": "",
     "featured": false,
     "posterPage": "Moana (2016 film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Moana%20%282016%20film%29&redirects=1&origin=*",
     "trailerSearch": "https://www.youtube.com/results?search_query=Moana%20official%20trailer"
   },
   {
@@ -281,11 +266,10 @@ const fallbackCatalogue = [
     "duration": "1h 28m",
     "description": "A young lion grows into his place in the circle of life in this animated classic.",
     "image": "",
-    "trailer": "https://www.youtube.com/watch?v=7TavVZMewpY",
+    "trailer": "",
     "featured": false,
     "posterPage": "The Lion King (1994 film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=The%20Lion%20King%20%281994%20film%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Lion%20King%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=The Lion King%20official%20trailer"
   },
   {
     "id": 17,
@@ -302,8 +286,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Percy Jackson and the Olympians (TV series)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Percy%20Jackson%20and%20the%20Olympians%20%28TV%20series%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Percy%20Jackson%20and%20the%20Olympians%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Percy Jackson and the Olympians%20official%20trailer"
   },
   {
     "id": 18,
@@ -320,7 +303,6 @@ const fallbackCatalogue = [
     "trailer": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
     "featured": true,
     "posterPage": "Barbie (film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Barbie%20%28film%29&redirects=1&origin=*",
     "trailerSearch": "https://www.youtube.com/results?search_query=Barbie%20official%20trailer"
   },
   {
@@ -338,8 +320,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Masters of the Universe (film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Masters%20of%20the%20Universe%20%28film%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Masters%20of%20the%20Universe%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Masters of the Universe%20official%20trailer"
   },
   {
     "id": 20,
@@ -356,8 +337,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Hot Wheels: Let's Race",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Hot%20Wheels%3A%20Let%27s%20Race&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Hot%20Wheels%3A%20Let%27s%20Race%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Hot Wheels: Let's Race%20official%20trailer"
   },
   {
     "id": 21,
@@ -374,8 +354,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": true,
     "posterPage": "Transformers: Rise of the Beasts",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Transformers%3A%20Rise%20of%20the%20Beasts&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Transformers%3A%20Rise%20of%20the%20Beasts%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Transformers: Rise of the Beasts%20official%20trailer"
   },
   {
     "id": 22,
@@ -392,8 +371,7 @@ const fallbackCatalogue = [
     "trailer": "https://www.youtube.com/watch?v=qSu6i2iFMO0",
     "featured": false,
     "posterPage": "Sonic the Hedgehog 3 (film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Sonic%20the%20Hedgehog%203%20%28film%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Sonic%20the%20Hedgehog%203%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Sonic the Hedgehog 3%20official%20trailer"
   },
   {
     "id": 23,
@@ -410,8 +388,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Star Trek: Strange New Worlds",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Star%20Trek%3A%20Strange%20New%20Worlds&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Star%20Trek%3A%20Strange%20New%20Worlds%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Star Trek: Strange New Worlds%20official%20trailer"
   },
   {
     "id": 24,
@@ -425,11 +402,10 @@ const fallbackCatalogue = [
     "duration": "1h 30m",
     "description": "A family must rely on careful communication in a world where sound carries danger.",
     "image": "",
-    "trailer": "https://www.youtube.com/watch?v=WR7cc5t7tv8",
+    "trailer": "",
     "featured": false,
     "posterPage": "A Quiet Place",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=A%20Quiet%20Place&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=A%20Quiet%20Place%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=A Quiet Place%20official%20trailer"
   },
   {
     "id": 25,
@@ -446,8 +422,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": true,
     "posterPage": "How to Train Your Dragon (2010 film)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=How%20to%20Train%20Your%20Dragon%20%282010%20film%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=How%20to%20Train%20Your%20Dragon%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=How to Train Your Dragon%20official%20trailer"
   },
   {
     "id": 26,
@@ -464,8 +439,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Kung Fu Panda 4",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Kung%20Fu%20Panda%204&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Kung%20Fu%20Panda%204%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Kung Fu Panda 4%20official%20trailer"
   },
   {
     "id": 27,
@@ -482,7 +456,6 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Shrek",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Shrek&redirects=1&origin=*",
     "trailerSearch": "https://www.youtube.com/results?search_query=Shrek%20official%20trailer"
   },
   {
@@ -500,8 +473,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "The Wild Robot",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=The%20Wild%20Robot&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Wild%20Robot%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=The Wild Robot%20official%20trailer"
   },
   {
     "id": 29,
@@ -518,8 +490,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": true,
     "posterPage": "Spirited Away",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Spirited%20Away&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Spirited%20Away%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Spirited Away%20official%20trailer"
   },
   {
     "id": 30,
@@ -536,8 +507,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "My Neighbor Totoro",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=My%20Neighbor%20Totoro&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=My%20Neighbor%20Totoro%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=My Neighbor Totoro%20official%20trailer"
   },
   {
     "id": 31,
@@ -554,7 +524,6 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": true,
     "posterPage": "Arcane (TV series)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Arcane%20%28TV%20series%29&redirects=1&origin=*",
     "trailerSearch": "https://www.youtube.com/results?search_query=Arcane%20official%20trailer"
   },
   {
@@ -572,8 +541,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Avatar: The Last Airbender (2024 TV series)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Avatar%3A%20The%20Last%20Airbender%20%282024%20TV%20series%29&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Avatar%3A%20The%20Last%20Airbender%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Avatar: The Last Airbender%20official%20trailer"
   },
   {
     "id": 33,
@@ -590,7 +558,6 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Wednesday (TV series)",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Wednesday%20%28TV%20series%29&redirects=1&origin=*",
     "trailerSearch": "https://www.youtube.com/results?search_query=Wednesday%20official%20trailer"
   },
   {
@@ -608,8 +575,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "The Sea of Tranquility",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=The%20Sea%20of%20Tranquility&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Sea%20of%20Tranquility%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=The Sea of Tranquility%20official%20trailer"
   },
   {
     "id": 35,
@@ -626,8 +592,7 @@ const fallbackCatalogue = [
     "trailer": "",
     "featured": false,
     "posterPage": "Blue Planet",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=Blue%20Planet&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=Planet%20Earth%3A%20Blue%20Worlds%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=Planet Earth: Blue Worlds%20official%20trailer"
   },
   {
     "id": 36,
@@ -641,11 +606,10 @@ const fallbackCatalogue = [
     "duration": "1h 39m",
     "description": "A meticulous concierge and his young colleague become caught in an unusual mystery.",
     "image": "",
-    "trailer": "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
+    "trailer": "",
     "featured": false,
     "posterPage": "The Grand Budapest Hotel",
-    "posterSource": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=The%20Grand%20Budapest%20Hotel&redirects=1&origin=*",
-    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Grand%20Budapest%20Hotel%20official%20trailer"
+    "trailerSearch": "https://www.youtube.com/results?search_query=The Grand Budapest Hotel%20official%20trailer"
   }
 ];
 let catalogue = [];
@@ -679,11 +643,17 @@ async function resolvePoster(item) {
   if (item.image) return item.image;
   const pageTitle = item.posterPage || item.title;
   try {
-    const api = item.posterSource || `https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=700&titles=${encodeURIComponent(pageTitle)}&redirects=1&origin=*`;
+    const api = `https://en.wikipedia.org/w/api.php?action=query&format=json&prop=images%7Cpageimages&piprop=thumbnail&pithumbsize=600&imlimit=30&titles=${encodeURIComponent(pageTitle)}&redirects=1&origin=*`;
     const response = await fetch(api);
     if (!response.ok) throw new Error("Poster lookup failed");
     const json = await response.json();
     const page = Object.values(json.query?.pages || {})[0];
+    const files = page?.images || [];
+    const posterFile = files.find(file => /poster|cover|key art|theatrical/i.test(file.title));
+    if (posterFile) {
+      const fileName = posterFile.title.replace(/^File:/i, "").replace(/ /g, "_");
+      return `https://en.wikipedia.org/wiki/Special:FilePath/${encodeURIComponent(fileName)}?width=500`;
+    }
     if (page?.thumbnail?.source) return page.thumbnail.source;
   } catch (error) { }
   const videoId = getYouTubeId(item.trailer);
@@ -691,9 +661,12 @@ async function resolvePoster(item) {
   return "";
 }
 async function resolveCatalogueImages(items) {
-  for (let index = 0; index < items.length; index += 5) {
-    const batch = items.slice(index, index + 5);
+  for (let index = 0; index < items.length; index += 6) {
+    const batch = items.slice(index, index + 6);
     await Promise.all(batch.map(async item => { item.image = await resolvePoster(item); }));
+    renderFeatured();
+    filterCatalogue();
+    renderMyList();
   }
 }
 function stopModalVideo() {
@@ -725,7 +698,7 @@ function showToast(message) {
 function loadSavedList() {
   try {
     const stored = JSON.parse(localStorage.getItem("lumaStreamMyList") || "[]");
-    myList = Array.isArray(stored) ? stored : [];
+    myList = Array.isArray(stored) ? stored.map(saved => catalogue.find(item => item.id === saved.id) || saved) : [];
   } catch (error) {
     myList = [];
     console.warn("Saved list could not be read. Starting with an empty list.", error);
@@ -892,19 +865,20 @@ async function loadCatalogue() {
     const data = await response.json();
     if (!Array.isArray(data) || data.length === 0) throw new Error("Catalogue data is empty or invalid.");
     catalogue = data;
-    await resolveCatalogueImages(catalogue);
-    catalogueStatus.textContent = "Catalogue loaded from local JSON.";
+    catalogueStatus.textContent = "Catalogue loaded; movie artwork is loading.";
   } catch (error) {
     console.warn("Using built-in catalogue fallback:", error);
     catalogue = fallbackCatalogue;
-    await resolveCatalogueImages(catalogue);
-    catalogueStatus.textContent = "Showing the built-in catalogue (local JSON could not be reached).";
+    catalogueStatus.textContent = "Showing built-in catalogue; movie artwork is loading.";
   }
   loadSavedList();
   populateFilters();
   renderFeatured();
   filterCatalogue();
   renderMyList();
+  resolveCatalogueImages(catalogue).then(() => {
+    catalogueStatus.textContent = "Catalogue and artwork loaded.";
+  });
 }
 searchInput.addEventListener("input", filterCatalogue);
 genreFilter.addEventListener("change", filterCatalogue);
