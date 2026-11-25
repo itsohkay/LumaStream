@@ -139,8 +139,8 @@
   <div class="modal fade" id="titleModal" tabindex="-1" aria-labelledby="modalTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg"><div class="modal-content luma-modal">
       <button type="button" class="modal-close" data-bs-dismiss="modal" aria-label="Close">×</button>
-      <div class="modal-visual"><img id="modalImage" src="" alt=""><span id="modalStudio" class="modal-studio"></span></div>
-      <div class="modal-info"><p class="eyebrow" id="modalFranchise"></p><h2 id="modalTitle">Title details</h2><div class="modal-meta" id="modalMeta"></div><p id="modalDescription"></p><div class="modal-actions"><a id="trailerLink" class="btn btn-luma" href="#" target="_blank" rel="noopener noreferrer">View trailer <b>↗</b></a><button id="modalSave" class="btn btn-ghost" type="button">＋ Add to My List</button></div><small class="trailer-note">Trailer links open third-party video pages.</small></div>
+      <div class="modal-visual"><img id="modalImage" src="" alt=""><iframe id="modalPlayer" title="Movie trailer" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen hidden></iframe><span id="modalStudio" class="modal-studio"></span></div>
+      <div class="modal-info"><p class="eyebrow" id="modalFranchise"></p><h2 id="modalTitle">Title details</h2><div class="modal-meta" id="modalMeta"></div><p id="modalDescription"></p><div class="modal-actions"><button id="playTrailerButton" class="btn btn-luma" type="button" hidden>Play preview <b>▶</b></button><a id="trailerLink" class="btn btn-ghost" href="#" target="_blank" rel="noopener noreferrer" hidden>Open YouTube <b>↗</b></a><button id="modalSave" class="btn btn-ghost" type="button">＋ Add to My List</button></div><small class="trailer-note">Previews are embedded from YouTube. Use Open YouTube for the source video.</small></div>
     </div></div>
   </div>
   <div class="toast-container position-fixed bottom-0 end-0 p-3"><div id="lumaToast" class="toast luma-toast" role="status" aria-live="polite" aria-atomic="true"><div class="toast-body"><span>✦</span><span id="toastMessage">Added to your list.</span></div></div></div>
